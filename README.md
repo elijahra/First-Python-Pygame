@@ -11,4 +11,6 @@
 > When I aquire more skills and over time I will:
 
 * Use the mechanics of the game to created a tetris game
+* create better graphincs 
+* use OOP for better code
 
