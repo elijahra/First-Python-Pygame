@@ -3,7 +3,6 @@
 
 # What I Did:
 * created functions to make game mechanics 
-* 
 
 # What did I learned:
 * practiced function creation skills 
