@@ -1,9 +1,6 @@
 # First-Python-Pygame
 * Used the pygame package to create a dodge racing game
 
-# What I Did:
-* created functions to make game mechanics 
-
 # What did I learned:
 * practiced function creation skills 
 * practiced for loops and while loops 
